@@ -110,3 +110,59 @@
 [24Dec2024 21:48:11.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mun1to> se ve re piola
 [24Dec2024 21:48:17.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LuKpop> tenemos los mods q nos paso hikari
 [24Dec2024 21:48:30.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Keiow> a joya entoncess
+[24Dec2024 21:49:47.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LuKpop> q mods hay?
+[24Dec2024 21:49:50.012] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Camthv is d072fd24-c5d9-4076-9e19-3e1fbe367f5b
+[24Dec2024 21:49:50.340] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [watut:main,shulkerboxslot:main,framework:play,curios:main,backpacked:play,framework:handshake] rejected their client side version number
+[24Dec2024 21:49:50.341] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[24Dec2024 21:49:50.363] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3f67b170[id=d072fd24-c5d9-4076-9e19-3e1fbe367f5b,name=Camthv,properties={textures=[com.mojang.authlib.properties.Property@a696e73]},legacy=false] (/127.187.164.61:52733) lost connection: Connection closed - mismatched mod channel list
+[24Dec2024 21:50:04.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LuKpop> de todo un poco?
+[24Dec2024 21:50:09.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mun1to> god
+[24Dec2024 21:50:10.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Keiow> los basicos nomas
+[24Dec2024 21:50:15.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Keiow> cual quieren?
+[24Dec2024 21:50:28.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Keiow> creo que el de la mesa de crafteo portatil
+[24Dec2024 21:51:01.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mun1to> chat de proximidad
+[24Dec2024 21:51:09.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mun1to> estaria bueno
+[24Dec2024 21:51:15.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Keiow> a si, ese esta piola
+[24Dec2024 21:51:22.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mun1to> seria muy piola
+[24Dec2024 21:51:48.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Keiow> ves, eso es
+[24Dec2024 21:54:01.383] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Camthv is d072fd24-c5d9-4076-9e19-3e1fbe367f5b
+[24Dec2024 21:54:03.165] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Camthv[/127.187.164.61:56679] logged in with entity id 2591 at (-358.5, 63.0, -58.5)
+[24Dec2024 21:54:03.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camthv joined the game
+[24Dec2024 21:54:04.612] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Keiow lost connection: Disconnected
+[24Dec2024 21:54:04.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Keiow left the game
+[24Dec2024 21:54:41.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuKpop has made the advancement [Stone Age]
+[24Dec2024 21:55:03.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuKpop has made the advancement [Getting an Upgrade]
+[24Dec2024 21:55:58.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Camthv was slain by Mun1to
+[24Dec2024 21:56:52.188] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Keiow is f7af5dd9-3a0b-46a9-abe8-2b91e529adf2
+[24Dec2024 21:56:53.873] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Keiow[/127.253.172.142:45713] logged in with entity id 3230 at (-344.7610711498012, 63.0, -61.1382719981822)
+[24Dec2024 21:56:53.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Keiow joined the game
+[24Dec2024 21:57:07.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LuKpop has made the advancement [Monster Hunter]
+[24Dec2024 21:57:13.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Keiow> che ya le puse el del voice chat, se los paso?
+[24Dec2024 21:57:23.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <LuKpop> pasalo
+[24Dec2024 21:57:23.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mun1to> sisiç
+[24Dec2024 21:57:31.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Keiow> dale lo paso por conejo
+[24Dec2024 21:57:45.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mun1to was slain by LuKpop
+[24Dec2024 21:58:09.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Keiow> reinicio el sv un toque
+[24Dec2024 21:58:13.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[24Dec2024 21:58:13.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: reset<--[HERE]
+[24Dec2024 21:58:19.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[24Dec2024 21:58:19.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: restart<--[HERE]
+[24Dec2024 21:58:24.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reloading!
+[24Dec2024 21:58:25.155] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[24Dec2024 21:58:25.229] [Server thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1281 advancements
+[24Dec2024 21:58:25.235] [Server thread/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio slots
+[24Dec2024 21:58:25.237] [Server thread/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[24Dec2024 21:58:40.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[24Dec2024 21:58:40.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[24Dec2024 21:58:40.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[24Dec2024 21:58:40.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[24Dec2024 21:58:41.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[24Dec2024 21:58:41.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[24Dec2024 21:58:41.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[24Dec2024 21:58:41.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[24Dec2024 21:58:41.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[24Dec2024 21:58:41.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[24Dec2024 21:58:41.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[24Dec2024 21:58:41.628] [Server thread/INFO] [Framework/]: Unloading server configs...
+[24Dec2024 21:58:41.631] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked.server.toml
+[24Dec2024 21:58:41.631] [Server thread/INFO] [Framework/]: Finished unloading server configs
