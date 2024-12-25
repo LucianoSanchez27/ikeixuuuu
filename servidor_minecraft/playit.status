@@ -352,3 +352,9 @@ heart-elevation.gl.at.ply.gg:1709 => 127.0.0.1:1709 (proto: Udp, port count: 1)
 TUNNELS
 homes-marathon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 heart-elevation.gl.at.ply.gg:1709 => 127.0.0.1:1709 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1735162457801 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+homes-marathon.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+heart-elevation.gl.at.ply.gg:1709 => 127.0.0.1:1709 (proto: Udp, port count: 1)
