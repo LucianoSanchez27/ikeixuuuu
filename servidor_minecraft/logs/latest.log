@@ -110,3 +110,35 @@
 [25Dec2024 14:09:08.665] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Keiow lost connection: Disconnected
 [25Dec2024 14:09:08.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Keiow left the game
 [25Dec2024 14:09:08.666] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Keiow
+[25Dec2024 14:11:48.381] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Keiow is f7af5dd9-3a0b-46a9-abe8-2b91e529adf2
+[25Dec2024 14:11:50.120] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Keiow[/127.253.172.142:45849] logged in with entity id 825 at (-395.5823652514604, 63.0, -116.35945117869028)
+[25Dec2024 14:11:50.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Keiow joined the game
+[25Dec2024 14:11:50.367] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Keiow (18)
+[25Dec2024 14:11:50.368] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Keiow
+[25Dec2024 14:12:15.765] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Keiow lost connection: Disconnected
+[25Dec2024 14:12:15.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Keiow left the game
+[25Dec2024 14:12:15.766] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Keiow
+[25Dec2024 14:14:24.566] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Keiow is f7af5dd9-3a0b-46a9-abe8-2b91e529adf2
+[25Dec2024 14:14:26.320] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Keiow[/127.253.172.142:41537] logged in with entity id 927 at (-395.5823652514604, 63.0, -116.35945117869028)
+[25Dec2024 14:14:26.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Keiow joined the game
+[25Dec2024 14:14:26.570] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Keiow (18)
+[25Dec2024 14:14:26.571] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Keiow
+[25Dec2024 14:15:46.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[25Dec2024 14:15:46.413] [Server thread/INFO] [luckperms/]: Starting shutdown process...
+[25Dec2024 14:15:46.415] [Server thread/INFO] [luckperms/]: Closing storage...
+[25Dec2024 14:15:46.434] [Server thread/INFO] [luckperms/]: Goodbye!
+[25Dec2024 14:15:46.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[25Dec2024 14:15:46.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[25Dec2024 14:15:46.442] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Keiow lost connection: Server closed
+[25Dec2024 14:15:46.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Keiow left the game
+[25Dec2024 14:15:46.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[25Dec2024 14:15:46.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[25Dec2024 14:15:46.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[25Dec2024 14:15:46.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[25Dec2024 14:15:46.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[25Dec2024 14:15:46.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[25Dec2024 14:15:46.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[25Dec2024 14:15:46.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[25Dec2024 14:15:46.813] [Server thread/INFO] [Framework/]: Unloading server configs...
+[25Dec2024 14:15:46.815] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked.server.toml
+[25Dec2024 14:15:46.815] [Server thread/INFO] [Framework/]: Finished unloading server configs
