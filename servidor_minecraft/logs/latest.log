@@ -1,144 +1,126 @@
-[25Dec2024 13:59:28.161] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[25Dec2024 13:59:28.168] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.5 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
-[25Dec2024 13:59:28.503] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[25Dec2024 13:59:28.560] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/ikeixuuuu/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[25Dec2024 13:59:28.800] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ikeixuuuu/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[25Dec2024 13:59:28.802] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ikeixuuuu/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[25Dec2024 13:59:28.804] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ikeixuuuu/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[25Dec2024 13:59:28.805] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ikeixuuuu/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[25Dec2024 13:59:28.966] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
-[25Dec2024 13:59:30.443] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[25Dec2024 13:59:30.455] [main/ERROR] [mixin/]: Mixin config necronomicon.forge.mixins.json does not specify "minVersion" property
-[25Dec2024 13:59:30.480] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[25Dec2024 13:59:30.514] [main/WARN] [mixin/]: Reference map 'cobweb.refmap.json' for cobweb.mixins.json could not be read. If this is a development environment you can ignore this message
-[25Dec2024 13:59:30.515] [main/WARN] [mixin/]: Reference map 'cobweb.refmap.json' for cobweb.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[25Dec2024 13:59:30.517] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
-[25Dec2024 13:59:30.518] [main/WARN] [mixin/]: Reference map 'harvest_with_ease.refmap.json' for harvest_with_ease.mixins.json could not be read. If this is a development environment you can ignore this message
-[25Dec2024 13:59:30.519] [main/WARN] [mixin/]: Reference map 'harvest_with_ease.refmap.json' for harvest_with_ease.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[25Dec2024 13:59:36.383] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
-[25Dec2024 13:59:36.406] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.animation_overhaul.config.AnimationsConfig.
-[25Dec2024 13:59:36.411] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.animation_overhaul.config.AnimationsConfig read successfully.
-[25Dec2024 13:59:36.430] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.animation_overhaul.config.PlayerConfig.
-[25Dec2024 13:59:36.431] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.animation_overhaul.config.PlayerConfig read successfully.
-[25Dec2024 13:59:36.437] [modloading-worker-0/INFO] [animation_overhaul/]: Animation Overhaul's Config initialized
-[25Dec2024 13:59:36.503] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[25Dec2024 13:59:36.504] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[25Dec2024 13:59:36.568] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.87.
-[25Dec2024 13:59:37.056] [modloading-worker-0/INFO] [necronomicon/]: Necronomicon Initialized
-[25Dec2024 13:59:37.057] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[25Dec2024 13:59:37.057] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.necronomicon.NecronomiconConfig.
-[25Dec2024 13:59:37.065] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.necronomicon.NecronomiconConfig read successfully.
-[25Dec2024 13:59:37.238] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[25Dec2024 13:59:37.243] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
-[25Dec2024 13:59:37.244] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[25Dec2024 13:59:37.244] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
-[25Dec2024 13:59:37.483] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [backpacked] Starting version check at https://mrcrayfish.com/modupdatejson?id=backpacked
-[25Dec2024 13:59:37.897] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key backpacked:unlock_tracker for minecraft:player
-[25Dec2024 13:59:37.897] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key backpacked:trader_pickpocketing for minecraft:wandering_trader
-[25Dec2024 13:59:37.975] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[25Dec2024 13:59:37.977] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[25Dec2024 13:59:38.329] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [backpacked] Found status: BETA Current: 3.0.0-beta.9 Target: 3.0.0-beta.9
-[25Dec2024 13:59:38.329] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[25Dec2024 13:59:38.785] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.20.1-2.5.27 Target: null
-[25Dec2024 13:59:38.786] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cobweb] Starting version check at https://api.modrinth.com/updates/cobweb/forge_updates.json
-[25Dec2024 13:59:39.065] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cobweb] Found status: UP_TO_DATE Current: 1.0.0 Target: null
-[25Dec2024 13:59:39.066] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [harvest_with_ease] Starting version check at https://api.modrinth.com/updates/harvest-with-ease/forge_updates.json
-[25Dec2024 13:59:39.149] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [harvest_with_ease] Found status: UP_TO_DATE Current: 9.4.0 Target: null
-[25Dec2024 13:59:39.150] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[25Dec2024 13:59:39.403] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[25Dec2024 13:59:39.499] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
-[25Dec2024 13:59:39.499] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[25Dec2024 13:59:39.708] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.22
-[25Dec2024 13:59:39.708] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
-[25Dec2024 13:59:39.810] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: AHEAD Current: 1.20.1-1.0.19 Target: null
-[25Dec2024 13:59:40.050] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/ikeixuuuu/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23141!/assets/.mcassetsroot' uses unexpected schema
-[25Dec2024 13:59:40.051] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/ikeixuuuu/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23141!/data/.mcassetsroot' uses unexpected schema
-[25Dec2024 13:59:41.977] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
-[25Dec2024 13:59:42.062] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1281 advancements
-[25Dec2024 13:59:42.080] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio slots
-[25Dec2024 13:59:42.084] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[25Dec2024 13:59:42.712] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[25Dec2024 13:59:42.712] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[25Dec2024 13:59:42.712] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[25Dec2024 13:59:42.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[25Dec2024 13:59:42.884] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[25Dec2024 13:59:42.906] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[25Dec2024 13:59:43.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]:         __    
-[25Dec2024 13:59:43.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]:   |    |__)   LuckPerms v5.4.102
-[25Dec2024 13:59:43.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]:   |___ |      Running on Forge - Forge
-[25Dec2024 13:59:43.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 
-[25Dec2024 13:59:43.105] [Server thread/INFO] [luckperms/]: Loading configuration...
-[25Dec2024 13:59:43.278] [Server thread/INFO] [luckperms/]: Loading storage provider... [H2]
-[25Dec2024 13:59:43.596] [Server thread/INFO] [luckperms/]: Loading internal permission managers...
-[25Dec2024 13:59:43.638] [Server thread/INFO] [luckperms/]: Performing initial data load...
-[25Dec2024 13:59:43.680] [Server thread/INFO] [luckperms/]: Successfully enabled. (took 6573ms)
-[25Dec2024 13:59:43.685] [Server thread/INFO] [Framework/]: Loading server configs...
-[25Dec2024 13:59:43.732] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[25Dec2024 13:59:49.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[25Dec2024 13:59:53.070] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[25Dec2024 13:59:53.106] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[25Dec2024 13:59:53.147] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[25Dec2024 13:59:53.179] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[25Dec2024 13:59:53.202] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[25Dec2024 13:59:53.226] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[25Dec2024 13:59:53.237] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[25Dec2024 13:59:53.248] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[25Dec2024 13:59:53.267] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[25Dec2024 13:59:53.521] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[25Dec2024 13:59:54.019] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 23%
-[25Dec2024 13:59:54.517] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 79%
-[25Dec2024 13:59:54.676] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5659 ms
-[25Dec2024 13:59:54.677] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (11.673s)! For help, type "help"
-[25Dec2024 13:59:54.698] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler luckperms:permission_handler
-[25Dec2024 13:59:54.704] [Server thread/INFO] [voicechat/]: [voicechat] Using the Minecraft servers port as voice chat port
-[25Dec2024 13:59:54.712] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 25565
-[25Dec2024 14:01:58.502] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Keiow is f7af5dd9-3a0b-46a9-abe8-2b91e529adf2
-[25Dec2024 14:02:00.267] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Keiow[/127.253.172.142:49189] logged in with entity id 82 at (-352.9626853898418, 63.0, -66.29743567293961)
-[25Dec2024 14:02:00.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Keiow joined the game
-[25Dec2024 14:02:00.921] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Keiow (18)
-[25Dec2024 14:02:00.923] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Keiow
-[25Dec2024 14:03:01.617] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Keiow lost connection: Disconnected
-[25Dec2024 14:03:01.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Keiow left the game
-[25Dec2024 14:03:01.621] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Keiow
-[25Dec2024 14:05:32.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Keiow a server operator
-[25Dec2024 14:05:37.298] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Keiow is f7af5dd9-3a0b-46a9-abe8-2b91e529adf2
-[25Dec2024 14:05:39.074] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Keiow[/127.253.172.142:46943] logged in with entity id 400 at (-396.6135292340358, 63.0, -119.92047569952237)
-[25Dec2024 14:05:39.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Keiow joined the game
-[25Dec2024 14:05:39.411] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Keiow (18)
-[25Dec2024 14:05:39.412] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Keiow
-[25Dec2024 14:06:08.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Keiow> luckperms:lp group default permission set voicechat.connect true
-[25Dec2024 14:09:08.665] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Keiow lost connection: Disconnected
-[25Dec2024 14:09:08.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Keiow left the game
-[25Dec2024 14:09:08.666] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Keiow
-[25Dec2024 14:11:48.381] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Keiow is f7af5dd9-3a0b-46a9-abe8-2b91e529adf2
-[25Dec2024 14:11:50.120] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Keiow[/127.253.172.142:45849] logged in with entity id 825 at (-395.5823652514604, 63.0, -116.35945117869028)
-[25Dec2024 14:11:50.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Keiow joined the game
-[25Dec2024 14:11:50.367] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Keiow (18)
-[25Dec2024 14:11:50.368] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Keiow
-[25Dec2024 14:12:15.765] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Keiow lost connection: Disconnected
-[25Dec2024 14:12:15.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Keiow left the game
-[25Dec2024 14:12:15.766] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Keiow
-[25Dec2024 14:14:24.566] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Keiow is f7af5dd9-3a0b-46a9-abe8-2b91e529adf2
-[25Dec2024 14:14:26.320] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Keiow[/127.253.172.142:41537] logged in with entity id 927 at (-395.5823652514604, 63.0, -116.35945117869028)
-[25Dec2024 14:14:26.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Keiow joined the game
-[25Dec2024 14:14:26.570] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Keiow (18)
-[25Dec2024 14:14:26.571] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Keiow
-[25Dec2024 14:15:46.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[25Dec2024 14:15:46.413] [Server thread/INFO] [luckperms/]: Starting shutdown process...
-[25Dec2024 14:15:46.415] [Server thread/INFO] [luckperms/]: Closing storage...
-[25Dec2024 14:15:46.434] [Server thread/INFO] [luckperms/]: Goodbye!
-[25Dec2024 14:15:46.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[25Dec2024 14:15:46.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[25Dec2024 14:15:46.442] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Keiow lost connection: Server closed
-[25Dec2024 14:15:46.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Keiow left the game
-[25Dec2024 14:15:46.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[25Dec2024 14:15:46.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[25Dec2024 14:15:46.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[25Dec2024 14:15:46.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[25Dec2024 14:15:46.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[25Dec2024 14:15:46.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[25Dec2024 14:15:46.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[25Dec2024 14:15:46.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[25Dec2024 14:15:46.813] [Server thread/INFO] [Framework/]: Unloading server configs...
-[25Dec2024 14:15:46.815] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked.server.toml
-[25Dec2024 14:15:46.815] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[25Dec2024 18:00:46.037] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[25Dec2024 18:00:46.040] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.5 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[25Dec2024 18:00:46.224] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[25Dec2024 18:00:46.271] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/ikeixuuuu/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[25Dec2024 18:00:46.511] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ikeixuuuu/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[25Dec2024 18:00:46.512] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ikeixuuuu/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[25Dec2024 18:00:46.514] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ikeixuuuu/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[25Dec2024 18:00:46.515] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ikeixuuuu/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[25Dec2024 18:00:46.642] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
+[25Dec2024 18:00:48.266] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[25Dec2024 18:00:48.286] [main/ERROR] [mixin/]: Mixin config necronomicon.forge.mixins.json does not specify "minVersion" property
+[25Dec2024 18:00:48.333] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[25Dec2024 18:00:48.415] [main/WARN] [mixin/]: Reference map 'cobweb.refmap.json' for cobweb.mixins.json could not be read. If this is a development environment you can ignore this message
+[25Dec2024 18:00:48.415] [main/WARN] [mixin/]: Reference map 'cobweb.refmap.json' for cobweb.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[25Dec2024 18:00:48.418] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[25Dec2024 18:00:48.419] [main/WARN] [mixin/]: Reference map 'harvest_with_ease.refmap.json' for harvest_with_ease.mixins.json could not be read. If this is a development environment you can ignore this message
+[25Dec2024 18:00:48.419] [main/WARN] [mixin/]: Reference map 'harvest_with_ease.refmap.json' for harvest_with_ease.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[25Dec2024 18:00:54.795] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
+[25Dec2024 18:00:54.803] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.animation_overhaul.config.AnimationsConfig.
+[25Dec2024 18:00:54.819] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.animation_overhaul.config.AnimationsConfig read successfully.
+[25Dec2024 18:00:54.836] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.animation_overhaul.config.PlayerConfig.
+[25Dec2024 18:00:54.849] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.animation_overhaul.config.PlayerConfig read successfully.
+[25Dec2024 18:00:54.854] [modloading-worker-0/INFO] [animation_overhaul/]: Animation Overhaul's Config initialized
+[25Dec2024 18:00:54.949] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[25Dec2024 18:00:54.949] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[25Dec2024 18:00:55.025] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.87.
+[25Dec2024 18:00:55.493] [modloading-worker-0/INFO] [necronomicon/]: Necronomicon Initialized
+[25Dec2024 18:00:55.494] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.necronomicon.NecronomiconConfig.
+[25Dec2024 18:00:55.494] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.necronomicon.NecronomiconConfig read successfully.
+[25Dec2024 18:00:55.494] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[25Dec2024 18:00:55.695] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[25Dec2024 18:00:55.699] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[25Dec2024 18:00:55.700] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[25Dec2024 18:00:55.700] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[25Dec2024 18:00:55.850] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [backpacked] Starting version check at https://mrcrayfish.com/modupdatejson?id=backpacked
+[25Dec2024 18:00:56.285] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key backpacked:unlock_tracker for minecraft:player
+[25Dec2024 18:00:56.285] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key backpacked:trader_pickpocketing for minecraft:wandering_trader
+[25Dec2024 18:00:56.417] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[25Dec2024 18:00:56.419] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[25Dec2024 18:00:56.809] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [backpacked] Found status: BETA Current: 3.0.0-beta.9 Target: 3.0.0-beta.9
+[25Dec2024 18:00:56.809] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[25Dec2024 18:00:57.314] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.20.1-2.5.27 Target: null
+[25Dec2024 18:00:57.315] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cobweb] Starting version check at https://api.modrinth.com/updates/cobweb/forge_updates.json
+[25Dec2024 18:00:57.482] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cobweb] Found status: UP_TO_DATE Current: 1.0.0 Target: null
+[25Dec2024 18:00:57.483] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [harvest_with_ease] Starting version check at https://api.modrinth.com/updates/harvest-with-ease/forge_updates.json
+[25Dec2024 18:00:57.519] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [harvest_with_ease] Found status: UP_TO_DATE Current: 9.4.0 Target: null
+[25Dec2024 18:00:57.520] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[25Dec2024 18:00:57.851] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[25Dec2024 18:00:57.871] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
+[25Dec2024 18:00:57.871] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[25Dec2024 18:00:57.944] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.22
+[25Dec2024 18:00:57.944] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
+[25Dec2024 18:00:58.046] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: AHEAD Current: 1.20.1-1.0.19 Target: null
+[25Dec2024 18:00:58.671] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/ikeixuuuu/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23141!/assets/.mcassetsroot' uses unexpected schema
+[25Dec2024 18:00:58.672] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/ikeixuuuu/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23141!/data/.mcassetsroot' uses unexpected schema
+[25Dec2024 18:01:00.760] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[25Dec2024 18:01:00.877] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1281 advancements
+[25Dec2024 18:01:00.901] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio slots
+[25Dec2024 18:01:00.905] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[25Dec2024 18:01:01.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[25Dec2024 18:01:01.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[25Dec2024 18:01:01.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[25Dec2024 18:01:01.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[25Dec2024 18:01:01.445] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[25Dec2024 18:01:01.471] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[25Dec2024 18:01:01.566] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[25Dec2024 18:01:01.567] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[25Dec2024 18:01:01.567] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[25Dec2024 18:01:01.567] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[25Dec2024 18:01:01.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]:         __    
+[25Dec2024 18:01:01.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]:   |    |__)   LuckPerms v5.4.102
+[25Dec2024 18:01:01.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]:   |___ |      Running on Forge - Forge
+[25Dec2024 18:01:01.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 
+[25Dec2024 18:01:01.670] [Server thread/INFO] [luckperms/]: Loading configuration...
+[25Dec2024 18:01:01.824] [Server thread/INFO] [luckperms/]: Loading storage provider... [H2]
+[25Dec2024 18:01:02.090] [Server thread/INFO] [luckperms/]: Loading internal permission managers...
+[25Dec2024 18:01:02.142] [Server thread/INFO] [luckperms/]: Performing initial data load...
+[25Dec2024 18:01:02.197] [Server thread/INFO] [luckperms/]: Successfully enabled. (took 6603ms)
+[25Dec2024 18:01:02.204] [Server thread/INFO] [Framework/]: Loading server configs...
+[25Dec2024 18:01:02.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[25Dec2024 18:01:06.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[25Dec2024 18:01:10.093] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Dec2024 18:01:10.094] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Dec2024 18:01:10.095] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Dec2024 18:01:10.096] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Dec2024 18:01:10.097] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Dec2024 18:01:10.097] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Dec2024 18:01:10.098] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Dec2024 18:01:10.098] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Dec2024 18:01:10.338] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
+[25Dec2024 18:01:10.838] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 76%
+[25Dec2024 18:01:11.017] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 4679 ms
+[25Dec2024 18:01:11.018] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.439s)! For help, type "help"
+[25Dec2024 18:01:11.054] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler luckperms:permission_handler
+[25Dec2024 18:01:11.063] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[25Dec2024 18:01:11.089] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'heart-elevation.gl.at.ply.gg:1709'
+[25Dec2024 18:01:11.092] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 1709
+[25Dec2024 18:03:33.090] [luckperms-worker-1/WARN] [luckperms/]: LuckPerms already has data for player 'Keiow' - but this data is stored under a different UUID.
+[25Dec2024 18:03:33.090] [luckperms-worker-1/WARN] [luckperms/]: 'Keiow' has previously used the unique ids [f7af5dd9-3a0b-46a9-abe8-2b91e529adf2] but is now connecting with 'cecdfaba-d668-3d27-b925-bb03db076789'
+[25Dec2024 18:03:33.091] [luckperms-worker-1/WARN] [luckperms/]: The UUID the player is connecting with now is NOT Mojang-assigned (type 3). This implies that THIS server is not authenticating correctly, but one (or more) of the other servers/proxies in the network are.
+[25Dec2024 18:03:33.091] [luckperms-worker-1/WARN] [luckperms/]: If you're using BungeeCord/Velocity, please ensure that IP-Forwarding is setup correctly on all of your backend servers!
+[25Dec2024 18:03:33.091] [luckperms-worker-1/WARN] [luckperms/]: See here for more info: https://luckperms.net/wiki/Network-Installation#pre-setup
+[25Dec2024 18:03:34.822] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Keiow[/127.253.172.142:34009] logged in with entity id 218 at (107.2759484964164, 70.0, 146.9066108473129)
+[25Dec2024 18:03:34.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Keiow joined the game
+[25Dec2024 18:03:35.264] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Keiow (18)
+[25Dec2024 18:03:35.266] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Keiow
+[25Dec2024 18:03:36.504] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cecdfaba-d668-3d27-b925-bb03db076789
+[25Dec2024 18:03:37.491] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cecdfaba-d668-3d27-b925-bb03db076789
+[25Dec2024 18:03:37.495] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Keiow (cecdfaba-d668-3d27-b925-bb03db076789) successfully connected to voice chat
+[25Dec2024 18:05:23.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[25Dec2024 18:05:23.529] [Server thread/INFO] [luckperms/]: Starting shutdown process...
+[25Dec2024 18:05:23.531] [Server thread/INFO] [luckperms/]: Closing storage...
+[25Dec2024 18:05:23.546] [Server thread/INFO] [luckperms/]: Goodbye!
+[25Dec2024 18:05:23.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[25Dec2024 18:05:23.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[25Dec2024 18:05:23.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[25Dec2024 18:05:24.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[25Dec2024 18:05:25.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[25Dec2024 18:05:25.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[25Dec2024 18:05:25.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[25Dec2024 18:05:25.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[25Dec2024 18:05:25.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[25Dec2024 18:05:25.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[25Dec2024 18:05:25.213] [Server thread/INFO] [Framework/]: Unloading server configs...
+[25Dec2024 18:05:25.214] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked.server.toml
+[25Dec2024 18:05:25.215] [Server thread/INFO] [Framework/]: Finished unloading server configs
