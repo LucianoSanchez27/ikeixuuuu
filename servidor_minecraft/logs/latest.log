@@ -102,3 +102,33 @@
 [26Dec2024 02:40:46.477] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cecdfaba-d668-3d27-b925-bb03db076789
 [26Dec2024 02:40:47.508] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cecdfaba-d668-3d27-b925-bb03db076789
 [26Dec2024 02:40:47.511] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Keiow (cecdfaba-d668-3d27-b925-bb03db076789) successfully connected to voice chat
+[26Dec2024 02:50:33.579] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Keiow lost connection: Disconnected
+[26Dec2024 02:50:33.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Keiow left the game
+[26Dec2024 02:50:33.583] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Keiow
+[26Dec2024 02:51:03.285] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Keiow[/127.253.172.142:44831] logged in with entity id 1270 at (97.92098742997982, 69.0, 147.36748494390326)
+[26Dec2024 02:51:03.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Keiow joined the game
+[26Dec2024 02:51:03.536] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Keiow (18)
+[26Dec2024 02:51:03.541] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Keiow
+[26Dec2024 02:51:05.504] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cecdfaba-d668-3d27-b925-bb03db076789
+[26Dec2024 02:51:06.504] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cecdfaba-d668-3d27-b925-bb03db076789
+[26Dec2024 02:51:06.505] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Keiow (cecdfaba-d668-3d27-b925-bb03db076789) successfully connected to voice chat
+[26Dec2024 02:51:29.882] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mun1to[/127.57.65.63:40551] logged in with entity id 1421 at (73.5, 64.0, 50.5)
+[26Dec2024 02:51:29.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mun1to joined the game
+[26Dec2024 02:51:30.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Keiow has made the advancement [Monster Hunter]
+[26Dec2024 02:51:31.459] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Mun1to (18)
+[26Dec2024 02:51:31.459] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Mun1to
+[26Dec2024 02:51:39.740] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player da5d70ad-6f97-37c7-84f0-64e4ecdae838
+[26Dec2024 02:51:40.741] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player da5d70ad-6f97-37c7-84f0-64e4ecdae838
+[26Dec2024 02:51:40.741] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Mun1to (da5d70ad-6f97-37c7-84f0-64e4ecdae838) successfully connected to voice chat
+[26Dec2024 02:52:03.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Mun1to to Keiow
+[26Dec2024 02:52:35.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
+[26Dec2024 02:54:51.728] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mun1to lost connection: Disconnected
+[26Dec2024 02:54:51.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mun1to left the game
+[26Dec2024 02:54:51.730] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Mun1to
+[26Dec2024 02:55:03.652] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player cecdfaba-d668-3d27-b925-bb03db076789 timed out
+[26Dec2024 02:55:03.653] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Keiow
+[26Dec2024 02:55:03.654] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Keiow
+[26Dec2024 02:55:18.579] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Keiow lost connection: Disconnected
+[26Dec2024 02:55:18.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Keiow left the game
+[26Dec2024 02:55:18.580] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Keiow
+[26Dec2024 02:55:18.688] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
